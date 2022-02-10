@@ -1,5 +1,5 @@
 # Aufgabe 3
-(Aus dem "Advent of Code" 2021, Im englischen Orginal hier: https://adventofcode.com/2021/day/1 )
+(Aus dem "Advent of Code" 2021, Im englischen Orginal hier: https://adventofcode.com/2021/day/1)
 
 Gegeben ist eine Liste von Zahlen.
 
@@ -35,6 +35,5 @@ for(var i = 0; i < input.length; i++) {
 console.log(increased.length)
 console.log(decreased.length)
 ```
-
 
 Antwort: 1752
