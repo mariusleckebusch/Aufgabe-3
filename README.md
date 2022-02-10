@@ -36,4 +36,4 @@ console.log(increased.length)
 console.log(decreased.length)
 ```
 
-Antwort: 1752
+Antwort: Es sind 1752 Elemente größer als der direkte Vorgänger
