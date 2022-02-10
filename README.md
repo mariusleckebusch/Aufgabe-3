@@ -9,6 +9,8 @@ Echter Input: https://github.com/mariusleckebusch/Aufgabe-3/blob/master/input.tx
 
 Frage: Wieviel Elemente in der Liste sind größer als der direkte Vorgänger?
 
+Antwort: Es sind 1752 Elemente größer als der direkte Vorgänger
+
 Code:
 ```js
 var input = [
@@ -35,5 +37,3 @@ for(var i = 0; i < input.length; i++) {
 console.log(increased.length)
 console.log(decreased.length)
 ```
-
-Antwort: Es sind 1752 Elemente größer als der direkte Vorgänger
